@@ -50,8 +50,4 @@ Pipelined Processor with bypassing implementation:
 ![Screenshot (881)](https://github.com/EngAhmed21/RISC-V-Processor-with-Pipelining/assets/90782588/bcf84f03-80ed-45d1-8446-005722fa1978)
 ![Screenshot (882)](https://github.com/EngAhmed21/RISC-V-Processor-with-Pipelining/assets/90782588/ca427e63-b786-4291-85e5-295e0cc0f0ad)
 
-- Elaboration Design using VIVADO:                                                                                                                                                                                                                                                                                                                                                            
-![Screenshot (874)](https://github.com/EngAhmed21/RISC-V-Processor-with-Pipelining/assets/90782588/8b497f01-566c-4574-914d-9c17f45398c5)
 
-- Synthesis using VIVADO:                                                                                                                                                                                                                                  
-![Screenshot (875)](https://github.com/EngAhmed21/RISC-V-Processor-with-Pipelining/assets/90782588/8ecda920-49fe-46f8-b214-b06d096a294a)
